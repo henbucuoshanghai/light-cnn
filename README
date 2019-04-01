@@ -1,0 +1,21 @@
+After 50 steps acc on train batch is 0.2 loss is 2.924532
+After 100 steps acc on train batch is 0.466667 loss is 2.686194
+After 150 steps acc on train batch is 0.4 loss is 2.6864228
+After 200 steps acc on train batch is 0.266667 loss is 2.688198
+After 250 steps acc on train batch is 0.2 loss is 2.6889439
+After 300 steps acc on train batch is 0.333333 loss is 2.685607
+After 350 steps acc on train batch is 0.266667 loss is 2.6875863
+After 400 steps acc on train batch is 0.2 loss is 2.661003
+After 450 steps acc on train batch is 0.266667 loss is 2.6866271
+After 500 steps acc on train batch is 0 loss is 2.6958702
+After 550 steps acc on train batch is 0.266667 loss is 2.6858594
+After 600 steps acc on train batch is 0.2 loss is 2.681251
+After 650 steps acc on train batch is 0.2 loss is 2.6902452
+After 700 steps acc on train batch is 0.266667 loss is 2.6856377
+After 750 steps acc on train batch is 0 loss is 2.6951609
+After 800 steps acc on train batch is 0.266667 loss is 2.6868978
+After 850 steps acc on train batch is 0.333333 loss is 2.6852393
+After 900 steps acc on train batch is 0.2 loss is 2.684671
+After 950 steps acc on train batch is 0.133333 loss is 2.691601
+Optimization Finished!
+Save model...
